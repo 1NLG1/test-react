@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/testing/static/css/main.22cc2d00.css",
+    "main.js": "/testing/static/js/main.af15d929.js",
+    "static/js/787.755664e6.chunk.js": "/testing/static/js/787.755664e6.chunk.js",
+    "static/media/poza-slide-1.webp": "/testing/static/media/poza-slide-1.132154933f20d89c5b8b.webp",
+    "static/media/poza-slide-2.webp": "/testing/static/media/poza-slide-2.7e0fa3dbcf58fbf5c15a.webp",
+    "static/media/poza-slide-1-mobile.jpg": "/testing/static/media/poza-slide-1-mobile.42b3b4ecb24a40fdbc2e.jpg",
+    "static/media/poza-slide-2-mobile.jpg": "/testing/static/media/poza-slide-2-mobile.11a783125a421bea62fb.jpg",
+    "static/media/poza-slide-3.webp": "/testing/static/media/poza-slide-3.6d75ca37076e64c35c33.webp",
+    "static/media/poza-slide-1-mobile.webp": "/testing/static/media/poza-slide-1-mobile.54cf63d3e54a1c5c67da.webp",
+    "static/media/poza-slide-3-mobile.jpg": "/testing/static/media/poza-slide-3-mobile.2260404533b4afd030c6.jpg",
+    "static/media/poza-slide-2-mobile.webp": "/testing/static/media/poza-slide-2-mobile.115ae78340e541f642dc.webp",
+    "static/media/poza-slide-3-mobile.webp": "/testing/static/media/poza-slide-3-mobile.3793c3a13c95e953b677.webp",
+    "static/media/logo.svg": "/testing/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/testing/index.html",
+    "main.22cc2d00.css.map": "/testing/static/css/main.22cc2d00.css.map",
+    "main.af15d929.js.map": "/testing/static/js/main.af15d929.js.map",
+    "787.755664e6.chunk.js.map": "/testing/static/js/787.755664e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22cc2d00.css",
+    "static/js/main.af15d929.js"
+  ]
+}
