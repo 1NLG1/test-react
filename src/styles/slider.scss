@@ -1,0 +1,16 @@
+.main {  }
+  .slider { display: block; position: relative; }  
+    .slider-controls { position: absolute; top: 0; right: 0; bottom: 0; left: 0; }
+    .slider-controls button { border: none; cursor: pointer; }
+      .slider-arrows { position: absolute; top: calc(50% - 30px); z-index: 1; height: 60px; width: 60px; background-color: #333; border-radius: 50%; opacity: 0.5; display: flex; justify-content: center; align-items: center; }
+      .slider-arrows .arrow { font: normal normal normal 14px/1 FontAwesome; color: #fff;}
+        .slider-prev { left: 0; } 
+        .slider-next { right: 0; }
+    .slider-list {  }    
+      .slider-item { display: none;  
+        &.Active { display: block; animation: fadeIn 0.5s ease-in-out both;}
+      }
+        .slider-image { display: block; }
+          .slider-image img { width: 100%; height: auto; display: block;
+            @media (max-width: 500px) { height: 300px; }
+          }

@@ -1,0 +1,9 @@
+.sidebar { position: fixed; top: 0; /*left: -390px; */ left: 0; background-color: #fff; z-index: 1000; height: 100%; width: 390px; 
+    @media (max-width: 567px) { width: 300px; }
+    &.active { left: 0; }
+  }
+    .sidebar ul { position: relative; margin-top: 54px; }   
+      .sidebar ul li { list-style: none; display: inline-block; width: 100%; padding: 10px 40px;
+      &:hover { background-color: #cf2227; }
+      }
+      .sidebar ul li a { text-decoration: none; color: #333; font-size: 1.5em; letter-spacing: 2px; }

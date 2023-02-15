@@ -1,0 +1,16 @@
+.header { display: flex; justify-content: space-between; height: 64px; background-color: #cf2227; align-items: center;}
+  .header .logo-container { flex-grow: 1; }  
+  .header .icon { color: #fff;}
+    .utensils { padding-left: 20px; font-size: 20px; }
+    .links { display: flex; }
+      .social-media { display: flex; list-style: none; align-items: center;}
+        .social-media li { padding: 0 5px; }
+          .social-media .icon { font-size: 20px;}
+          .social-media .icon.instagram { padding-right: 20px; }
+        .menu-trigger-btn { height: 40px; width: 40px; position: relative; cursor: pointer; display: flex; justify-content: center; align-items: center; }
+        .menu-trigger-btn::before { content: ''; width: 28px; height: 2px; background-color: #fff; position: absolute; transform: translateY(-5px); transition: 0.2s;}
+        .menu-trigger-btn::after { content: ''; position: absolute; width: 28px; height: 2px; background-color: #fff; transform: translateY(5px); transition: 0.2s;}  
+        .menu-trigger-btn.active::before { transform: translateY(0px) rotate(45deg); }
+        .menu-trigger-btn.active::after { transform: translateY(0px) rotate(-45deg); }
+
+    
