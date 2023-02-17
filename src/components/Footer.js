@@ -31,7 +31,7 @@ function Footer() {
                     <h3>UTILE</h3>
                     <ul>
                         <li>
-                            <a href="#">Ajutor</a>
+                            <a href="#">Help</a>
                         </li>
                         <li>
                             <a href="#">Termeni si Conditii</a>
