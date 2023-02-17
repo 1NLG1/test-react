@@ -15,15 +15,15 @@ function Footer() {
                     <ul className="footer-column-list">
                         <li>
                             <FontAwesomeIcon icon={faPhone} className='contact icon'/>
-                            <a href="tel:+40723687615">Marian - 0723 687 615</a>
+                            <a href="tel:+40723######">Marian - 0723 ### ###</a>
                         </li>
                         <li>
                             <FontAwesomeIcon icon={faPhone} className='contact icon'/>
-                            <a href="tel:+40723687615">Darius - 0723 687 615</a>
+                            <a href="tel:+40723######">Darius - 0723 ### ###</a>
                         </li>
                         <li>
                             <FontAwesomeIcon icon={faEnvelope} className='contact icon'/>
-                            <a href="mailto:contact@ospatar-eveniment.ro">contact@ospatar-eveniment.ro</a> 
+                            <a href="mailto:contact@email-random.ro">contact@email-random.ro</a> 
                         </li>
                     </ul>
                 </section>
